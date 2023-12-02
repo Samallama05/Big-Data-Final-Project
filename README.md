@@ -1,5 +1,6 @@
 # Big-Data-Final-Project
-Determine if mouse forelimb model provides extra data which can better explain Purkinje Cell firing rates
+Determine if mouse forelimb model provides extra data which can better explain Purkinje Cell firing rates  
+Repository: https://github.com/Samallama05/Big-Data-Final-Project  
 
 
 FILES:  
