@@ -20,3 +20,9 @@ run trajectory_forelimb to optimize reaches and output torque files
 run CompareKinematics to get error values for reaches to ensure accuracy  
 run SK_LASSOoriginal to get R^2 value of regression of Purkinje Cell firing rates with real kinematics  
 run SK_LASSOoriginal to get R^2 value of regression of Purkinje Cell firing rates with synthesized kinematics
+
+Dependencies:
+Computer must have Opensim, Anaconda, and Moco downloaded and installed  
+
+Data set:  
+The date set can be obtained from the Person Lab. The data was given to the Al Borno Lab as we are working in conjunction with them to furthur explain Purkinje Cell firing rates. 
