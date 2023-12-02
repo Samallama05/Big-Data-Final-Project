@@ -3,7 +3,7 @@ Determine if mouse forelimb model provides extra data which can better explain P
 
 
 FILES:
-working_mouse_model_2023_2 -> this is the current working model which is used in reach optimization\n
+working_mouse_model_2023_2 -> this is the current working model which is used in reach optimization
 180829_Lasso_Results -> The data file containing the mouse kinematics and the Purkinje Cell firing rates which were used in the analysis
 helpermouse -> helper functions for optimization code
 trajectory_forelimb -> code containing the model initialization and cost function for optimization. Loops over several reaches and produces optimizations
